@@ -1,0 +1,6 @@
+diffusers==0.25.0
+transformers
+accelerate
+gradio
+torch
+safetensors
